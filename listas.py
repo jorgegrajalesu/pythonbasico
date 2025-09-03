@@ -5,3 +5,5 @@ print(len(lista_mes))
 
 persona= ["Jorge", "Grajales", 48, "1976"]
 print(persona)
+#para mostrar un valor, ej el 48
+print(persona[2])
