@@ -16,3 +16,7 @@ print(persona[-1])
 print(persona[-2])
 print(persona[-3])
 print(persona[-4])
+
+#la lista se puede asignar
+nombre, apellido, edad, fecha = persona
+print(edad)
