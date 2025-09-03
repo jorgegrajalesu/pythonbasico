@@ -7,3 +7,12 @@ persona= ["Jorge", "Grajales", 48, "1976"]
 print(persona)
 #para mostrar un valor, ej el 48
 print(persona[2])
+#mostrar cada elemento de la lista persona
+print(persona[0])
+print(persona[1])
+print(persona[2])
+print(persona[3])
+print(persona[-1])
+print(persona[-2])
+print(persona[-3])
+print(persona[-4])
