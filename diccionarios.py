@@ -11,3 +11,7 @@ programas = {
 print(programas)
 #para acceder a los diccionarios
 print(persona["Nombre"])
+
+#agregar elementos a los diccionarios
+persona["Calle"] = "Calle 45 # 52-19"
+print(persona)
