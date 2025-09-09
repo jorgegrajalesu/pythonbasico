@@ -4,4 +4,6 @@ print(persona)
 print(len(persona))
 # añadir elementos
 persona.add("Usuga")
-print(persona)
+print(persona)# estructura desordenada
+persona.add("Usuga")
+print(persona)#no admite repetidos
