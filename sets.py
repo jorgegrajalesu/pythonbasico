@@ -19,3 +19,8 @@ persona.add("Usuga")
 persona.add("Jorge")
 persona.add(45)
 print(persona)
+
+#unir dos sets
+programa ={"php","mysql","html"}
+union_set = persona.union(programa)
+print(union_set)
