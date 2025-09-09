@@ -1,5 +1,5 @@
 #condicional simple
-edad=int(input("Cual es tu edad"))
+edad=int(input("Cual es tu edad? "))
 
 if edad>=18:
     print ("Mayor de edad")
