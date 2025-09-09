@@ -1,2 +1,2 @@
 #diccionario y sets se definen igual
-persona = {"Nombre":"Jorge","Apellido":"Grajales"}
+persona = {"Nombre":"Jorge","Apellido":"Grajales", "Edad":49}
