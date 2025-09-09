@@ -15,3 +15,9 @@ print(persona["Nombre"])
 #agregar elementos a los diccionarios
 persona["Calle"] = "Calle 45 # 52-19"
 print(persona)
+
+#eliminar elemento de un diccionario
+del persona["Calle"]
+print(persona)
+del persona[1]
+print(persona)
